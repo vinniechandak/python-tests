@@ -1,0 +1,7 @@
+env/**/*
+.git/**/*
+.cache/**/*
+__pycache__/**/*
+*/.pytest_cache/**/*
+*/.cache/**/*
+
